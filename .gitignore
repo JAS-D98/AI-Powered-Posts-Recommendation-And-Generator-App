@@ -1,0 +1,5 @@
+#  .gitignore files
+.env
+__pycache__/
+venv/
+*.vscode/
